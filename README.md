@@ -22,7 +22,7 @@
   </section>
 
   <footer>
-    <p>Conéctate conmigo en <a href="https://www.linkedin.com/in/tu-perfil">LinkedIn</a></p>
+    <p>Conéctate conmigo en <a href="https://www.linkedin.com/in/ashley-ccanto-urbano-economics/">LinkedIn</a></p>
   </footer>
 </body>
 </html>
