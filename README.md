@@ -11,7 +11,7 @@
 <body>
   <header>
     <h1>¡Hola! Soy Ashley</h1>
-    <p>Bienvenida a mi portafolio de GitHub</p>
+    <p>Bienvenid@ a mi portafolio de GitHub</p>
   </header>
 
   <section>
